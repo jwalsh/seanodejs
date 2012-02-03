@@ -1,0 +1,21 @@
+{
+  "name": "seanode",
+  "description": "sample setup of package.json",
+  "version": "0.0.1",
+  "homepage": "http://wal.sh",
+  "repository": {
+    "url": ""
+  },
+  "author": "Jason Walsh <j@wal.sh> (http://wal.sh)",
+  "directories": {
+    "lib": "."
+  },
+  "dependencies": {
+    "express": "2.5.5",
+    "jade": ">= 0.0.1",
+    "restify": "0.5.6"
+  },
+  "engines": {
+    "node": "0.4.6"
+  }
+}
